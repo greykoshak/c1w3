@@ -157,5 +157,5 @@ fabric.properties
 !requirements.txt
 
 *.DS_Store
-*.ipynb
+#*.ipynb
 db.sqlite3
